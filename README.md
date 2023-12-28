@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AgroSight: Crops and Plants Monitoring System**
 
-- 🌱 I’m currently learning **Django Python & React Native**
+- 🌱 I’m currently learning **Django Python, Flask & React Native**
 
 - 🤝 I’m looking for help with **Django Python Projects 👀**
 
